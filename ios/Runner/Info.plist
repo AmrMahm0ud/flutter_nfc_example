@@ -6,7 +6,6 @@
 	<true/>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
-	<key>com.apple.developer.nfc.readersession.formats</key>
 	<key>CFBundleDisplayName</key>
 	<string>Nfc Counter</string>
 	<key>CFBundleExecutable</key>
